@@ -1,0 +1,3 @@
+/work/chuanqiu/rotate_reverse_SR/test/CMakeFiles/rotate_async.dir
+/work/chuanqiu/rotate_reverse_SR/test/CMakeFiles/edit_cache.dir
+/work/chuanqiu/rotate_reverse_SR/test/CMakeFiles/rebuild_cache.dir
