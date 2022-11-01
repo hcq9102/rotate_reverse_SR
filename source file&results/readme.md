@@ -38,7 +38,7 @@ build &test log :
   
 ## reverse test  __test_reverse folder
    
-   chuanqiu@medusa00:/work/chuanqiu/rotate_reverse_SR/test_reverse$ cmake -DCMAKE_BUILD_TYPE=Release -DHPX_DIR=/work/chuanqiu/rotate_reverse_SR/installhpx/lib64/cmake/HPX -DHPX_IGNORE_COMPILER_COMPATIBILITY=on .
+         chuanqiu@medusa00:/work/chuanqiu/rotate_reverse_SR/test_reverse$ cmake -DCMAKE_BUILD_TYPE=Release -DHPX_DIR=/work/chuanqiu/rotate_reverse_SR/installhpx/lib64/cmake/HPX -DHPX_IGNORE_COMPILER_COMPATIBILITY=on .
 
 
       chuanqiu@medusa00:/work/chuanqiu/rotate_reverse_SR/test_reverse$ make
