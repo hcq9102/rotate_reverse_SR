@@ -1,4 +1,5 @@
-Local test:
+Local test: threads range[1-24]
+
 HPX_DIR=/home/chuanqiu/workhpx/hpx/build cmake ..
 
 
